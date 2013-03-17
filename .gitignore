@@ -205,3 +205,6 @@ Library/metadata/89/89201ff72cca045d0b1d3fa2a561dc2c
 Library/metadata/25/25db7a1e737b442a09c1ca352f9ae40e
 
 Library/metadata/35/3576b0e97796a41b68966db0bc2bcb00
+
+*.csproj
+
